@@ -1,4 +1,14 @@
-### Hi there 👋
+👋 Hello, I'm Rishit!
+
+🎓 Currently pursuing a Master's in Computer Science at Arizona State University. 3+ years working as Software Development Engineer 2 at Amazon.
+
+💻 Passionate about machine learning and data analytics. My recent project involved building a foundational model for chest X-ray analysis, showcasing my expertise in Python, statistical methods, and machine learning algorithms.
+
+🚀 Excited to contribute to impactful projects. I have hands-on experience with libraries like Pandas, Scikit-learn, nltk, and spacy, and I'm always eager to explore cutting-edge technologies.
+
+🤖 Leveraging my skills to inform decision-making, I'm open to collaboration and continuous learning.
+
+🔗 Connect with me to explore the intersection of data science, machine learning, and real-world problem-solving!
 
 <!--
 **rishit5/rishit5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
