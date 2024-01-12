@@ -1,6 +1,6 @@
 👋 Hello, I'm Rishit!
 
-🎓 Currently pursuing a Master's in Computer Science at Arizona State University. 3+ years working as Software Development Engineer 2 at Amazon.
+🎓 Currently pursuing a Master's in Computer Science at Arizona State University. 3+ years of work experience as Software Development Engineer 2 at Amazon.
 
 💻 Passionate about machine learning and data analytics. My recent project involved building a foundational model for chest X-ray analysis, showcasing my expertise in Python, statistical methods, and machine learning algorithms.
 
